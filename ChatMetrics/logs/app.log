@@ -1,0 +1,315 @@
+2026-05-11 11:44:21,918 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 11:44:22,713 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 11:44:36,183 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 11:44:36,184 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-11 11:45:46,013 - ChatMetrics - ERROR - Error al cargar archivo: Faltan las siguientes columnas requeridas: Estado
+2026-05-11 11:51:53,818 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 11:51:54,288 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 11:51:58,361 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 11:51:58,361 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-11 11:53:07,776 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-11 11:55:15,720 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-11 11:55:15,721 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-11 11:55:17,896 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-11 11:55:24,902 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_115521.xlsx.
+2026-05-11 11:55:24,902 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_115521.xlsx
+2026-05-11 11:55:24,998 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-11 12:08:03,260 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 12:08:03,726 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 12:08:11,696 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 12:08:11,696 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-11 12:09:20,286 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-11 12:09:25,175 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-11 12:09:25,175 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-11 12:09:27,414 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-11 12:09:32,247 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_120929.xlsx.
+2026-05-11 12:09:32,247 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_120929.xlsx
+2026-05-11 12:09:32,295 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-11 12:26:55,763 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 12:26:56,180 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 12:27:00,368 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 12:27:00,369 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-11 12:28:06,750 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-11 12:28:19,726 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-11 12:28:19,727 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-11 12:28:21,847 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-11 12:28:28,177 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_122823.xlsx.
+2026-05-11 12:28:28,178 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_122823.xlsx
+2026-05-11 12:28:28,184 - ChatMetrics - ERROR - Error en exportación: 'MergedCell' object has no attribute 'column_letter'
+2026-05-11 12:30:50,780 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 12:30:51,410 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 12:30:56,813 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 12:30:56,815 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-11 12:32:02,956 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-11 12:32:05,633 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-11 12:32:05,634 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-11 12:32:07,737 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-11 12:33:29,104 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_123325.xlsx.
+2026-05-11 12:33:29,104 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_123325.xlsx
+2026-05-11 12:33:29,163 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-11 12:45:20,084 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 12:45:20,493 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 12:45:25,834 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 12:45:25,835 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-11 12:46:37,378 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-11 12:46:39,278 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-11 12:46:39,278 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-11 12:46:41,478 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-11 12:46:46,384 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_124643.xlsx.
+2026-05-11 12:46:46,384 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_124643.xlsx
+2026-05-11 12:46:46,449 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-11 14:03:50,060 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 14:03:50,746 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 14:26:17,717 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 14:26:18,225 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 14:26:23,345 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 14:26:23,346 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-11 14:26:41,474 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-11 15:12:53,932 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 15:12:54,352 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 15:12:59,126 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 15:12:59,126 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/RHSM_custom_2025-05-19_2026-05-01_d86e2a5f63588699dbed642c79364704_3deb2526-f006-4226-bc9d-c6b10aa83a6e_2026-05-11T20_05_17Z.xlsx
+2026-05-11 15:13:16,810 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-11 15:13:22,925 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-11 15:13:22,925 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-11 15:13:24,906 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-11 15:13:31,300 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_151327.xlsx.
+2026-05-11 15:13:31,300 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_151327.xlsx
+2026-05-11 15:13:31,366 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-11 16:46:37,279 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 16:46:38,203 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 16:47:38,430 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 16:47:38,431 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/RHSM_custom_2025-05-19_2026-05-01_d86e2a5f63588699dbed642c79364704_3deb2526-f006-4226-bc9d-c6b10aa83a6e_2026-05-11T20_05_17Z.xlsx
+2026-05-11 16:47:57,414 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-11 16:48:14,253 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-11 16:48:14,255 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-11 16:48:16,330 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-11 16:48:24,825 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_164819.xlsx.
+2026-05-11 16:48:24,825 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_164819.xlsx
+2026-05-11 16:48:24,895 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-11 16:57:30,784 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2026-01-01 a 2026-04-30).
+2026-05-11 16:57:30,785 - ChatMetrics - INFO - Procesando datos desde 2026-01-01 hasta 2026-04-30
+2026-05-11 16:57:32,847 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-11 16:57:39,056 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_165735.xlsx.
+2026-05-11 16:57:39,058 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_165735.xlsx
+2026-05-11 16:57:39,124 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-11 16:58:27,778 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-11 16:58:28,284 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-11 16:58:39,325 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-11 16:58:39,326 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/RHSM_custom_2025-05-19_2026-05-01_d86e2a5f63588699dbed642c79364704_3deb2526-f006-4226-bc9d-c6b10aa83a6e_2026-05-11T20_05_17Z.xlsx
+2026-05-11 16:58:58,259 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-11 16:59:11,912 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2026-01-01 a 2026-04-30).
+2026-05-11 16:59:11,913 - ChatMetrics - INFO - Procesando datos desde 2026-01-01 hasta 2026-04-30
+2026-05-11 16:59:13,926 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-11 16:59:27,474 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_165922.xlsx.
+2026-05-11 16:59:27,475 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260511_165922.xlsx
+2026-05-11 16:59:27,540 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-12 16:57:26,648 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-12 16:57:28,146 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-12 17:04:54,831 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-12 17:04:55,307 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-12 17:14:15,260 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-12 17:14:15,785 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-12 17:14:21,146 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-12 17:14:21,147 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-12 17:14:40,201 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-12 17:14:58,952 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-12 17:14:58,953 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-12 17:15:00,793 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-12 17:15:08,597 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_171503.xlsx.
+2026-05-12 17:15:08,598 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_171503.xlsx
+2026-05-12 17:15:08,667 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-12 17:15:45,809 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2026-01-01 a 2026-04-30).
+2026-05-12 17:15:45,810 - ChatMetrics - INFO - Procesando datos desde 2026-01-01 hasta 2026-04-30
+2026-05-12 17:15:47,632 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-12 17:15:54,775 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_171552.xlsx.
+2026-05-12 17:15:54,776 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_171552.xlsx
+2026-05-12 17:15:54,836 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-12 17:16:58,099 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2026-03-01 a 2026-04-30).
+2026-05-12 17:16:58,100 - ChatMetrics - INFO - Procesando datos desde 2026-03-01 hasta 2026-04-30
+2026-05-12 17:16:59,792 - ChatMetrics - INFO - Procesamiento completado. Se generaron 2 cuadros.
+2026-05-12 17:17:15,900 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_171711.xlsx.
+2026-05-12 17:17:15,900 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_171711.xlsx
+2026-05-12 17:17:15,962 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-12 17:22:52,152 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-12 17:22:52,679 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-12 17:22:56,755 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-12 17:22:56,755 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-12 17:23:15,071 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-12 17:23:17,473 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-12 17:23:17,473 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-12 17:23:19,344 - ChatMetrics - INFO - Procesamiento completado. Se generaron 3 cuadros.
+2026-05-12 17:23:24,190 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_172321.xlsx.
+2026-05-12 17:23:24,191 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_172321.xlsx
+2026-05-12 17:23:24,260 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-12 17:34:04,354 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-12 17:34:04,802 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-12 17:34:08,494 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-12 17:34:08,495 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004/RHSM_custom_2025Diego - copia.xlsx
+2026-05-12 17:34:27,027 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-12 17:36:23,418 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2026-03-01 a 2026-04-30).
+2026-05-12 17:36:23,419 - ChatMetrics - INFO - Procesando datos desde 2026-03-01 hasta 2026-04-30
+2026-05-12 17:36:25,158 - ChatMetrics - INFO - Procesamiento completado. Se generaron 3 cuadros.
+2026-05-12 17:36:30,743 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_173627.xlsx.
+2026-05-12 17:36:30,743 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_173627.xlsx
+2026-05-12 17:36:30,808 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-12 17:36:37,652 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-12 17:36:38,085 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-12 17:37:12,329 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-12 17:37:12,331 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/RHSM_custom_2026-03-01_2026-05-01.xlsx
+2026-05-12 17:37:28,495 - ChatMetrics - INFO - Archivo cargado exitosamente. 258202 registros encontrados.
+2026-05-12 17:37:36,227 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2026-03-02 a 2026-04-30).
+2026-05-12 17:37:36,228 - ChatMetrics - INFO - Procesando datos desde 2026-03-02 hasta 2026-04-30
+2026-05-12 17:37:37,954 - ChatMetrics - INFO - Procesamiento completado. Se generaron 3 cuadros.
+2026-05-12 17:37:44,277 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_173741.xlsx.
+2026-05-12 17:37:44,277 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260512_173741.xlsx
+2026-05-12 17:37:44,342 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-13 10:03:20,167 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 10:03:20,835 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 10:19:35,179 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 10:19:36,920 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 10:22:41,056 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 10:22:41,112 - ChatMetrics - CRITICAL - Error fatal en la aplicación: name 'font' is not defined
+Traceback (most recent call last):
+  File "c:\Users\will8\Downloads\ME\Tareas\TSK-004\ChatMetrics\main.py", line 19, in main
+    window = MainWindow(controller)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\will8\Downloads\ME\Tareas\TSK-004\ChatMetrics\app\ui\main_window.py", line 21, in __init__
+    self.apply_styles()
+  File "c:\Users\will8\Downloads\ME\Tareas\TSK-004\ChatMetrics\app\ui\main_window.py", line 112, in apply_styles
+    font-family: "Helvetica Neue", "Raleway", "GT Pressura", "Segoe UI", Arial, sans-serif;
+    ^^^^
+NameError: name 'font' is not defined. Did you mean: 'self.font'?
+2026-05-13 10:23:50,052 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 10:23:51,178 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 10:47:17,306 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 10:47:19,410 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 10:50:26,630 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 10:50:27,909 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 10:58:53,927 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 10:58:55,219 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 10:59:09,956 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-13 10:59:09,956 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-13 10:59:28,853 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-13 10:59:37,281 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-13 10:59:37,282 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-13 11:00:11,824 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-13 11:02:14,342 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 11:02:15,634 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 11:02:26,055 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-13 11:02:26,055 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-13 11:02:44,187 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-13 11:06:00,840 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 11:06:02,061 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 11:11:05,291 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 11:11:06,559 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 11:11:28,630 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-13 11:11:28,631 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-13 11:11:47,036 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-13 11:13:45,381 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 11:13:46,597 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 11:14:09,087 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 11:14:10,225 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 11:14:52,792 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 11:14:54,308 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 11:15:04,619 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-13 11:15:04,620 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-13 11:15:23,188 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-13 11:26:38,481 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-13 11:26:40,852 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-13 11:27:07,761 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-13 11:27:07,761 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-13 11:27:25,849 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-14 15:25:27,032 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-14 15:25:28,073 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-14 15:25:35,909 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-14 15:25:35,910 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-14 15:25:54,107 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-14 15:56:17,865 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-14 15:56:18,835 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-14 15:56:26,325 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-14 15:56:26,325 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-14 16:09:36,770 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-14 16:09:38,053 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-14 16:09:48,883 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-14 16:09:48,884 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-14 16:10:07,047 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-14 16:15:47,105 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-14 16:15:48,118 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-14 16:15:55,309 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-14 16:15:55,310 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-14 16:16:12,649 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-14 16:19:07,829 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-14 16:19:08,764 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-14 16:19:19,208 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-14 16:19:19,209 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-14 16:19:28,615 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-14 16:19:28,616 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-14 16:19:46,800 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-14 16:24:06,995 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-14 16:24:08,569 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-14 16:24:23,681 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-14 16:24:23,681 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-14 16:24:41,185 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-14 16:24:47,814 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-14 16:24:47,815 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-14 16:24:49,678 - ChatMetrics - INFO - Procesamiento completado. Se generaron 3 cuadros.
+2026-05-14 16:24:56,386 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260514_162451.xlsx.
+2026-05-14 16:24:56,386 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260514_162451.xlsx
+2026-05-14 16:24:56,448 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-15 09:43:09,387 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 09:43:12,173 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-15 09:44:13,273 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-15 09:44:13,273 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-15 09:44:31,225 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-15 09:46:04,142 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-15 09:46:04,143 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-15 09:46:06,056 - ChatMetrics - INFO - Procesamiento completado. Se generaron 3 cuadros.
+2026-05-15 09:46:11,679 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260515_094609.xlsx. Categorías: ['Postgrado', 'Otros'].
+2026-05-15 09:46:11,679 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260515_094609.xlsx
+2026-05-15 09:46:11,738 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-15 09:51:22,652 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 09:51:24,159 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-15 12:48:30,718 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 12:48:33,343 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-15 14:38:17,570 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 14:38:20,357 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-15 14:40:00,260 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-15 14:40:00,261 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-15 14:40:18,849 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-15 14:40:35,450 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-15 14:40:35,450 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-15 14:40:37,376 - ChatMetrics - INFO - Procesamiento completado. Se generaron 3 cuadros.
+2026-05-15 14:40:42,812 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260515_144039.xlsx. Categorías: {'Postgrado': ['Maestría (M.)', 'Diplomas', 'CIE', 'PAE'], 'Pregrado': ['Universidad ESAN – Pregrado (5to año)', 'Universidad ESAN – DPA'], 'Otros': ['Sin Categoría']}.
+2026-05-15 14:40:42,823 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260515_144039.xlsx
+2026-05-15 14:40:42,881 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-15 14:54:34,126 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 14:54:35,942 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-15 15:03:03,982 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 15:03:05,687 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-15 15:13:44,923 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 15:13:46,573 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-15 15:14:07,988 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-15 15:14:07,988 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/ME/Tareas/TSK-004v1/RHSM_custom_2025Diego - copia.xlsx
+2026-05-15 15:14:25,922 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-15 15:14:51,813 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-15 15:14:51,813 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-15 15:14:53,697 - ChatMetrics - INFO - Procesamiento completado. Se generaron 3 cuadros.
+2026-05-15 15:14:57,656 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260515_151455.xlsx. Categorías: {'Postgrado': ['PADE', 'PAE'], 'Pregrado': ['Universidad ESAN – DPA']}.
+2026-05-15 15:14:57,664 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260515_151455.xlsx
+2026-05-15 15:14:57,720 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-15 15:17:19,594 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 15:17:21,218 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-15 15:17:54,910 - ChatMetrics - INFO - Controller: Solicitud de carga de archivo iniciada.
+2026-05-15 15:17:54,912 - ChatMetrics - INFO - Cargando archivo: C:/Users/will8/Downloads/RHSM_custom_2025-05-19_2026-05-01.xlsx
+2026-05-15 15:18:12,187 - ChatMetrics - INFO - Archivo cargado exitosamente. 282230 registros encontrados.
+2026-05-15 15:18:29,085 - ChatMetrics - INFO - Controller: Solicitud de procesamiento de datos (2025-11-19 a 2026-04-30).
+2026-05-15 15:18:29,085 - ChatMetrics - INFO - Procesando datos desde 2025-11-19 hasta 2026-04-30
+2026-05-15 15:18:30,978 - ChatMetrics - INFO - Procesamiento completado. Se generaron 3 cuadros.
+2026-05-15 15:18:35,583 - ChatMetrics - INFO - Controller: Solicitud de exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260515_151832.xlsx. Categorías: {'Postgrado': ['Maestría (M.)', 'CIE', 'PAE'], 'Pregrado': ['Universidad ESAN – Pregrado (5to año)', 'Universidad Esan Pregrado (Egresado)'], 'Otros': ['Sin Categoría']}.
+2026-05-15 15:18:35,594 - ChatMetrics - INFO - Iniciando exportación a C:/Users/will8/Downloads/Reporte_ChatMetrics_20260515_151832.xlsx
+2026-05-15 15:18:35,652 - ChatMetrics - INFO - Exportación completada exitosamente.
+2026-05-15 15:25:45,714 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 15:25:47,124 - ChatMetrics - INFO - Aplicación iniciada correctamente.
+2026-05-15 15:35:05,311 - ChatMetrics - INFO - Iniciando aplicación ChatMetrics...
+2026-05-15 15:35:06,826 - ChatMetrics - INFO - Aplicación iniciada correctamente.
