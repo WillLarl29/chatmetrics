@@ -1,0 +1,23 @@
+# ── Entorno virtual ───────────────────────────────────────────────
+.venv/
+
+# ── Python cache ──────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── PyInstaller ───────────────────────────────────────────────────
+ChatMetrics/build/
+ChatMetrics/dist/
+ChatMetrics/*.spec
+
+# ── Logs ──────────────────────────────────────────────────────────
+ChatMetrics/logs/
+
+# ── Recursos locales (no van al repo) ─────────────────────────────
+ChatMetrics/icon.ico
+
+# ── Sistema operativo ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
